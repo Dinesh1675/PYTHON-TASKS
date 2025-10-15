@@ -1,0 +1,4 @@
+#How do you replace all spaces with underscores?
+a="Finally i lost her"
+b=a.replace(" ","_")
+print(b)
